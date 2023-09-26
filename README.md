@@ -69,7 +69,8 @@ To use this project :
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ]
+- **[Take into account numbers]**
+- **[Take into account symbols]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
