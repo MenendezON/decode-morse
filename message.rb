@@ -39,7 +39,10 @@ def decode(morse)
         ' ' => '/' 
     }
 
-    
+morse = morse.gsub!("   ", " / ", )
+morse.split(' ').each do |el|
+        print morse_code.key(el).to_s
+end (edited) 
     
 end
 
